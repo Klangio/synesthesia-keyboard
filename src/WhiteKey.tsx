@@ -1,22 +1,14 @@
 
 function WhiteKey(props: {
-     name: string;
+     handleClick: any;
 }) {
 
-    const playkey = () =>{
-        const audio = new Audio(props.name);
-        audio.play();
-    }
-
-    const handleKey = (e: any) =>{
-        
-    }
 
   return (
-    <div onClick={playkey} onKeyDown={handleKey} tabIndex={0} style={{
+    <div onClick={props.handleClick} style={{
         backgroundColor: "white",
         height: "40%",
-        width: "110px",
+        width: "60px",
         fontSize: "25px",
         maxLines: 1,
         margin: "-5px",
