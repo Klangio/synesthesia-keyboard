@@ -4,6 +4,7 @@
 
 function BlackKey(props: {
     handleClick: any;
+    keystring: string;
 }) {
 
  return (
@@ -16,8 +17,9 @@ function BlackKey(props: {
        margin: "-20px",
        paddingTop: "18%",
        float: 'left',
+       color:"white"
        
-   }}></div>
+   }}>{props.keystring}</div>
 
 
  );

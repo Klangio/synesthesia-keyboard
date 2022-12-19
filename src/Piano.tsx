@@ -447,7 +447,7 @@ function Piano() {
     <>
 
 <div
-    style={{height: 300, backgroundColor:'hsla(' + color[0] + ',' + color[1] + '%,' + color[2]+ '%,' + alpha + ')'}} tabIndex={0} onKeyDown={handleKey}></div>
+    style={{height: 250, backgroundColor:'hsla(' + color[0] + ',' + color[1] + '%,' + color[2]+ '%,' + alpha + ')'}} tabIndex={0} onKeyDown={handleKey}></div>
 
     <div style={{
         margin: "auto",
@@ -457,18 +457,18 @@ function Piano() {
         backgroundColor: 'hsla(' + color[0] + ',' + color[1] + '%,' + color[2]+ '%,' + alpha + ')',
     }}tabIndex={0} onKeyDown={handleKey}>
     <div style={{}}>
-    <WhiteKey  handleClick={() => handleKey({key: "y"})}></WhiteKey>
-    <BlackKey  handleClick={() => handleKey({key: "s"})}></BlackKey>
-    <WhiteKey  handleClick={() => handleKey({key: "x"})}></WhiteKey>
-    <BlackKey  handleClick={() => handleKey({key: "d"})}></BlackKey>
-    <WhiteKey  handleClick={() => handleKey({key: "c"})}></WhiteKey>
-    <WhiteKey  handleClick={() => handleKey({key: "v"})}></WhiteKey>
-    <BlackKey  handleClick={() => handleKey({key: "g"})}></BlackKey>
-    <WhiteKey  handleClick={() => handleKey({key: "b"})}></WhiteKey>
-    <BlackKey  handleClick={() => handleKey({key: "h"})}></BlackKey>
-    <WhiteKey  handleClick={() => handleKey({key: "n"})}></WhiteKey>
-    <BlackKey  handleClick={() => handleKey({key: "j"})}></BlackKey>
-    <WhiteKey  handleClick={() => handleKey({key: "m"})}></WhiteKey>
+    <WhiteKey  handleClick={() => handleKey({key: "y"})} keystring="y"></WhiteKey>
+    <BlackKey  handleClick={() => handleKey({key: "s"})} keystring="s"></BlackKey>
+    <WhiteKey  handleClick={() => handleKey({key: "x"})} keystring="x"></WhiteKey>
+    <BlackKey  handleClick={() => handleKey({key: "d"})} keystring="d"></BlackKey>
+    <WhiteKey  handleClick={() => handleKey({key: "c"})} keystring="c"></WhiteKey>
+    <WhiteKey  handleClick={() => handleKey({key: "v"})} keystring="v"></WhiteKey>
+    <BlackKey  handleClick={() => handleKey({key: "g"})} keystring="g"></BlackKey>
+    <WhiteKey  handleClick={() => handleKey({key: "b"})} keystring="b"></WhiteKey>
+    <BlackKey  handleClick={() => handleKey({key: "h"})} keystring="h"></BlackKey>
+    <WhiteKey  handleClick={() => handleKey({key: "n"})} keystring="n"></WhiteKey>
+    <BlackKey  handleClick={() => handleKey({key: "j"})} keystring="j"></BlackKey>
+    <WhiteKey  handleClick={() => handleKey({key: "m"})} keystring="m"></WhiteKey>
     </div>
     </div>
     </>

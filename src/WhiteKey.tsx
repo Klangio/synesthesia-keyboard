@@ -1,6 +1,7 @@
 
 function WhiteKey(props: {
      handleClick: any;
+     keystring: string;
 }) {
 
 
@@ -16,9 +17,7 @@ function WhiteKey(props: {
         float: 'left',
         marginLeft: '10px',
         border: '2px solid black'
-
-       
-    }}></div>
+    }}> {props.keystring} </div>
 
 
   );
