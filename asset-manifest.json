@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/synesthesia-keyboard/static/css/main.e6c13ad2.css",
+    "main.js": "/synesthesia-keyboard/static/js/main.ef1b4bc7.js",
+    "static/js/787.0b409dbd.chunk.js": "/synesthesia-keyboard/static/js/787.0b409dbd.chunk.js",
+    "static/media/A.mp3": "/synesthesia-keyboard/static/media/A.d3cad29a2325868ed072.mp3",
+    "static/media/As.mp3": "/synesthesia-keyboard/static/media/As.0aa99672da176189b443.mp3",
+    "static/media/B.mp3": "/synesthesia-keyboard/static/media/B.b6d9d941d3d7ee0deb1d.mp3",
+    "static/media/C.mp3": "/synesthesia-keyboard/static/media/C.30f37fe53f60c4df25bb.mp3",
+    "static/media/Cs.mp3": "/synesthesia-keyboard/static/media/Cs.47265bb60a6dbc3d3ee2.mp3",
+    "static/media/D.mp3": "/synesthesia-keyboard/static/media/D.2874b0ea3db929a61a94.mp3",
+    "static/media/Ds.mp3": "/synesthesia-keyboard/static/media/Ds.2d361de5fba44bad4450.mp3",
+    "static/media/E.mp3": "/synesthesia-keyboard/static/media/E.12000f691b4bbf824438.mp3",
+    "static/media/F.mp3": "/synesthesia-keyboard/static/media/F.0abacca1eeeee4943302.mp3",
+    "static/media/Fs.mp3": "/synesthesia-keyboard/static/media/Fs.02bc0ea59f8fe3a81792.mp3",
+    "static/media/G.mp3": "/synesthesia-keyboard/static/media/G.fb0ba46c10873cb1a41d.mp3",
+    "static/media/Gs.mp3": "/synesthesia-keyboard/static/media/Gs.d4648fdd15ed980fbd03.mp3",
+    "index.html": "/synesthesia-keyboard/index.html",
+    "main.e6c13ad2.css.map": "/synesthesia-keyboard/static/css/main.e6c13ad2.css.map",
+    "main.ef1b4bc7.js.map": "/synesthesia-keyboard/static/js/main.ef1b4bc7.js.map",
+    "787.0b409dbd.chunk.js.map": "/synesthesia-keyboard/static/js/787.0b409dbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ef1b4bc7.js"
+  ]
+}
