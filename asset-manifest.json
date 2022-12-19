@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/synesthesia-keyboard/static/css/main.e6c13ad2.css",
-    "main.js": "/synesthesia-keyboard/static/js/main.3864efe5.js",
+    "main.js": "/synesthesia-keyboard/static/js/main.15c2f3db.js",
     "static/js/787.0b409dbd.chunk.js": "/synesthesia-keyboard/static/js/787.0b409dbd.chunk.js",
     "static/media/A.mp3": "/synesthesia-keyboard/static/media/A.d3cad29a2325868ed072.mp3",
     "static/media/As.mp3": "/synesthesia-keyboard/static/media/As.0aa99672da176189b443.mp3",
@@ -17,11 +17,11 @@
     "static/media/Gs.mp3": "/synesthesia-keyboard/static/media/Gs.d4648fdd15ed980fbd03.mp3",
     "index.html": "/synesthesia-keyboard/index.html",
     "main.e6c13ad2.css.map": "/synesthesia-keyboard/static/css/main.e6c13ad2.css.map",
-    "main.3864efe5.js.map": "/synesthesia-keyboard/static/js/main.3864efe5.js.map",
+    "main.15c2f3db.js.map": "/synesthesia-keyboard/static/js/main.15c2f3db.js.map",
     "787.0b409dbd.chunk.js.map": "/synesthesia-keyboard/static/js/787.0b409dbd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3864efe5.js"
+    "static/js/main.15c2f3db.js"
   ]
 }
